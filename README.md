@@ -1,1 +1,3 @@
 # SQL
+
+PUTO EL QUE LO LEA
